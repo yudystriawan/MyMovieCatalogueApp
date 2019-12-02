@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">MyMovieCatalogueApp</string>
+    <string name="nav_movies">Movies</string>
+    <string name="nav_tv_shows">TV Shows</string>
+    <string name="nav_settings">Settings</string>
+    <string name="title_favorite">Favorite</string>
+    <string name="title_favorited">Favorited</string>
+    <string name="title_overview">Overview</string>
+    <string name="err_connection">Connection Problem.</string>
+    <string name="tab_text_1">Movie</string>
+    <string name="tab_text_2">Tv Show</string>
+    <string name="set_localization">Set Localization</string>
+    <string name="search">Search</string>
+    <string name="search_hint">Insert title</string>
+    <string name="no_movie_found">No Movie Found</string>
+    <string name="no_tv_show_found">No Tv Show Found</string>
+    <string name="appwidget_text">My Favorite Movies</string>
+    <string name="empty_text">NO DATA</string>
+    <string name="add_widget">Add widget</string>
+    <string name="reminder">Reminder</string>
+    <string name="key_daily_reminder">Daily Reminder</string>
+    <string name="daily_reminder">Daily Reminder</string>
+    <string name="summary_daily_reminder">Notify user daily</string>
+    <string name="key_daily_movie">Daily Movie</string>
+    <string name="summary_daily_movie">Notify user get daily movie</string>
+    <string name="daily_movie">Daily Movie</string>
+    <string name="notification_message">Comeback and check new movies</string>
+    <string name="notification_title">Hello, we miss you</string>
+</resources>

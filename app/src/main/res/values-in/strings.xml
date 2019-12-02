@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyMovieCatalogueApp</string>
+    <string name="add_widget">Tambahkan widget</string>
+    <string name="appwidget_text">Film Favorite Saya</string>
+    <string name="daily_movie">Film Harian</string>
+    <string name="daily_reminder">Pengingat harian</string>
+    <string name="empty_text">Tidak Ada Data</string>
+    <string name="err_connection">Koneksi Bermasalah</string>
+    <string name="key_daily_movie">Film Harian</string>
+    <string name="key_daily_reminder">Pengingat Harian</string>
+    <string name="nav_movies">Film</string>
+    <string name="nav_settings">Pengaturan</string>
+    <string name="nav_tv_shows">Acara TV</string>
+    <string name="no_movie_found">Film Tidak ditemukan</string>
+    <string name="no_tv_show_found">Acara TV tidak ditemukan</string>
+    <string name="notification_message">Kembali dan lihat film baru</string>
+    <string name="notification_title">Halo, kami kangen</string>
+    <string name="reminder">Pengingat</string>
+    <string name="search">Pencarian</string>
+    <string name="search_hint">Masukan judul</string>
+    <string name="set_localization">Atur Lokalisasi</string>
+    <string name="summary_daily_movie">Beritahu pengguna film harian</string>
+    <string name="summary_daily_reminder">Beritahu Pengguna berkala</string>
+    <string name="tab_text_1">Film</string>
+    <string name="tab_text_2">Acara TV</string>
+    <string name="title_favorite">Favorit</string>
+    <string name="title_favorited">Terfavoritkan</string>
+    <string name="title_overview">Ulasan</string>
+</resources>
